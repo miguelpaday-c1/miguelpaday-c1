@@ -4,10 +4,10 @@
     "details": [
       {
         "appIDs": [
-          "TEAM_ID.BUNDLE_ID"
+          "YQFY6269ZL.com.example.flutterNavigation"
         ],
         "paths": [
-          "/path/to/handle/*"
+          "/*"
         ]
       }
     ]
