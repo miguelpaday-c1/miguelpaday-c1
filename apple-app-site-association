@@ -1,15 +1,25 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "YQFY6269ZL.com.example.flutterNavigation"
-        ],
-        "paths": [
-          "/*"
-        ]
-      }
-    ]
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [
+            "YQFY6269ZL.com.example.flutterNavigation"
+          ],
+          "paths": [
+            "*"
+          ],
+          "components": [
+            {
+              "/": "/*"
+            }
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "YQFY6269ZL.com.example.flutterNavigation"
+      ]
+    }
   }
-}
